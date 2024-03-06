@@ -1,7 +1,7 @@
 # PhoneBookCrudFile
 # Interfeyslar
 ## Fayllardan foydalnish uchun Interfeys
-![image](https://github.com/Ahmadxon1990/PhoneBookCrudFile/assets/153198605/2ef6b032-5663-4061-a677-4a39414850f5)
+![image](https://github.com/Ahmadxon1990/PhoneBookCrudFile/assets/153198605/3a7e94e7-ebad-4809-94a1-2eb3c5f0787f)
 
 ## Ma'lumotlar bilan ishlash uchun Interfeys
 ![image](https://github.com/Ahmadxon1990/PhoneBookCrudFile/assets/153198605/dfbd0d2a-c261-49b2-baae-673cec5881a2)
